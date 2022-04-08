@@ -1,0 +1,3 @@
+#! /bin/bash
+
+sudo echo "I can't do it"
